@@ -26,16 +26,6 @@ Visit the live website : [Here](https://paullyy8.github.io/birthday-wish/)
 ## Credits
 Created with the intention of spreading joy and celebrating friendship. Happy 19th Birthday!
 
-## **Contributing**
-
-Feel free to fork the repository, submit issues, and pull requests. We'd love to have your help in improving the extension!
-
-To contribute:
-1. Fork the repository.
-2. Clone your fork locally.
-3. Make your changes and push them.
-4. Submit a pull request to the main repository.
-
 ## **License**
 
 This project is open source and available under the MIT License.
@@ -48,4 +38,12 @@ This project is open source and available under the MIT License.
 
 ---
 
-<h3 align="center">Designed and Developed by <a href="https://bento.me/amit-paul">Amit Paul</a></h3>
+<h3 align="center">Designed and Developed by</h3>
+
+<p align="center">
+  <a href="https://github.com/paullyy8" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/129642624?v=4" alt="paullyy8" width="100" height="100" style="border-radius: 50%; border: 3px solid #5e81ac; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease; object-fit: cover;" />
+  </a>
+  <br>
+  <a href="https://bento.me/amit-paul" target="_blank" style="font-size: 16px; color: #2e3440; text-decoration: none; font-weight: bold;">paullyy8</a>
+</p>
